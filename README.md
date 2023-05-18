@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust🦀, Data Structures&Algorithms**
 
-- 📝 I'll write articles on [https://blog.engramsoft.com](https://blog.engramsoft.com)
+- 📝 I'll write articles on [**https://blog.engramsoft.com**](https://blog.engramsoft.com)
 
 - 💬 Ask me about **C,CMake,Rust,Embedded Systems**
 
