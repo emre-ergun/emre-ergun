@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C, CMake, Rust, Embedded Systems**
 
-- 📫 How to reach me **emreergun@engramsoft.com**
+- 📫 How to reach me **emreergun@engramsoft.com** or **emrergun61@gmail.com**
 <br>
 <br>
 <br>
