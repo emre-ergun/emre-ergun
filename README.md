@@ -7,9 +7,9 @@
 
 - 📝 I'll write articles on [**https://blog.engramsoft.com**](https://blog.engramsoft.com)
 
-- 💬 Ask me about **C, CMake, Rust, Embedded Systems**
+- 💬 Ask me about **C, CMake, Rust, C++, Embedded Systems**
 
-- 📫 How to reach me **emreergun@engramsoft.com** or **emrergun61@gmail.com**
+- 📫 How to reach me **emreergun@engramsoft.com** or **pvt.emreergun@gmail.com**
 <br>
 <br>
 <br>
