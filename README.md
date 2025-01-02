@@ -45,6 +45,7 @@
     style="display: inline-block"
     ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
+      style="background-color: white"
       alt="rust"
       width="42"
       height="42"
@@ -69,8 +70,8 @@
       width="42"
       height="42"
   /></a>
-
-<a
+  <br />
+  <a
     target="_blank"
     href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
     style="display: inline-block"
@@ -80,7 +81,7 @@
       width="42"
       height="42"
   /></a>
-<a
+  <a
     target="_blank"
     href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
     style="display: inline-block"
@@ -90,7 +91,7 @@
       width="42"
       height="42"
   /></a>
-<a
+  <a
     target="_blank"
     href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
     style="display: inline-block"
@@ -100,7 +101,7 @@
       width="42"
       height="42"
   /></a>
-<a
+  <a
     target="_blank"
     href="https://reactnative.dev/img/header_logo.svg"
     style="display: inline-block"
@@ -110,7 +111,7 @@
       width="42"
       height="42"
   /></a>
-<a
+  <a
     target="_blank"
     href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
     style="display: inline-block"
@@ -120,7 +121,7 @@
       width="42"
       height="42"
   /></a>
-<a
+  <a
     target="_blank"
     href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
     style="display: inline-block"
@@ -130,7 +131,7 @@
       width="42"
       height="42"
   /></a>
-<a
+  <a
     target="_blank"
     href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
     style="display: inline-block"
@@ -140,5 +141,4 @@
       width="42"
       height="42"
   /></a>
-
 </p>
